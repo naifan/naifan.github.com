@@ -1,6 +1,15 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Home
+  url: /
   excerpt:
-  image:
+  image: home_page.jpg
+
+- title: Python
+  url: /python/
+
+- title: Linux
+  url: /linux/
+
+- title: Other
+  url: /Other/
